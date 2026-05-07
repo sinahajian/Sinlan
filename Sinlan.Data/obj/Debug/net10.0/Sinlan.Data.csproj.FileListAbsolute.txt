@@ -1,0 +1,16 @@
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.csproj.AssemblyReference.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.AssemblyInfoInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.AssemblyInfo.cs
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.csproj.CoreCompileInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Data.deps.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Data.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Data.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Domain.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.D.1E7D7F50.Up2Date
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/refint/Sinlan.Data.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/ref/Sinlan.Data.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.sourcelink.json

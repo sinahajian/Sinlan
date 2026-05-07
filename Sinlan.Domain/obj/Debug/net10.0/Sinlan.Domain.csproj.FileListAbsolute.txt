@@ -1,0 +1,12 @@
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.AssemblyInfoInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.AssemblyInfo.cs
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.csproj.CoreCompileInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/bin/Debug/net10.0/Sinlan.Domain.deps.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/bin/Debug/net10.0/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/bin/Debug/net10.0/Sinlan.Domain.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/refint/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/ref/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.sourcelink.json

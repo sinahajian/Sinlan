@@ -1,0 +1,12 @@
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.IOC.deps.json
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.IOC.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.IOC.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.AssemblyInfoInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.AssemblyInfo.cs
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.csproj.CoreCompileInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.sourcelink.json
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/refint/Sinlan.IOC.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/ref/Sinlan.IOC.dll

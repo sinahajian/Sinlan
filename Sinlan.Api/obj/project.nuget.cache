@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDdcithaFkk=",
+  "success": true,
+  "projectFilePath": "/Users/sinahajianmanesh/SinLan/Sinlan.Api/Sinlan.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sinahajianmanesh/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/sinahajianmanesh/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

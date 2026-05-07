@@ -1,0 +1,12 @@
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/bin/Debug/net10.0/Sinlan.Shared.deps.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/bin/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/bin/Debug/net10.0/Sinlan.Shared.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.AssemblyInfoInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.AssemblyInfo.cs
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.csproj.CoreCompileInputs.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/refint/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/ref/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Shared/obj/Debug/net10.0/Sinlan.Shared.sourcelink.json
