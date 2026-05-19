@@ -1,7 +1,7 @@
-using Sinlan.Shared.DTO.WordsDtos;
+using Sinlan.Application.Contracts.UserWords;
 namespace Sinlan.Application.IServices.UserWords;
 
 public interface IGetUserWordsCountService
 {
-    public Task<int> ExecuteAsync(GetUserWordsCountDto dto, CancellationToken cancellationToken = default);
+    public Task<long> ExecuteAsync(GetUserWordsCountDto dto, CancellationToken cancellationToken = default);
 }

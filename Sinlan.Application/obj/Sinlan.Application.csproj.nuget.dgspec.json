@@ -29,9 +29,6 @@
             "projectReferences": {
               "/Users/sinahajianmanesh/SinLan/Sinlan.Domain/Sinlan.Domain.csproj": {
                 "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Domain/Sinlan.Domain.csproj"
-              },
-              "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj": {
-                "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj"
               }
             }
           }
@@ -367,7 +364,11 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj": {
+                "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

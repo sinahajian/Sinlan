@@ -8,14 +8,16 @@
     ".NETCoreApp,Version=v10.0": {
       "Sinlan.Application/1.0.0": {
         "dependencies": {
-          "Sinlan.Domain": "1.0.0",
-          "Sinlan.Shared": "1.0.0"
+          "Sinlan.Domain": "1.0.0"
         },
         "runtime": {
           "Sinlan.Application.dll": {}
         }
       },
       "Sinlan.Domain/1.0.0": {
+        "dependencies": {
+          "Sinlan.Shared": "1.0.0"
+        },
         "runtime": {
           "Sinlan.Domain.dll": {
             "assemblyVersion": "1.0.0.0",

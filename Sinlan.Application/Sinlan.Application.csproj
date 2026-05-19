@@ -6,7 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sinlan.Shared\Sinlan.Shared.csproj" />
     <ProjectReference Include="..\Sinlan.Domain\Sinlan.Domain.csproj" />
   </ItemGroup>
 </Project>

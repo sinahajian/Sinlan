@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinlan.IOC", "Sinlan.IOC\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinlan.Data", "Sinlan.Data\Sinlan.Data.csproj", "{682AD6E3-7179-44AB-8EAA-0513D5763D50}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sinlan.Infrastructure", "Sinlan.Infrastructure", "{775E8DF8-F16F-46C9-95B0-BCECD4DB156F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sinlan.Infrastructure", "Sinlan.Infrastructure\sinlan.Infrastructure.csproj", "{1D354E74-BD06-447D-8B10-44C5B7F4F572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,8 +101,23 @@ Global
 		{682AD6E3-7179-44AB-8EAA-0513D5763D50}.Release|x64.Build.0 = Release|Any CPU
 		{682AD6E3-7179-44AB-8EAA-0513D5763D50}.Release|x86.ActiveCfg = Release|Any CPU
 		{682AD6E3-7179-44AB-8EAA-0513D5763D50}.Release|x86.Build.0 = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|x64.Build.0 = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Debug|x86.Build.0 = Debug|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|x64.ActiveCfg = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|x64.Build.0 = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|x86.ActiveCfg = Release|Any CPU
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D354E74-BD06-447D-8B10-44C5B7F4F572} = {775E8DF8-F16F-46C9-95B0-BCECD4DB156F}
 	EndGlobalSection
 EndGlobal

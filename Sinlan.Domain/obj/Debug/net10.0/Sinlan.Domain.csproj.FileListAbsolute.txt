@@ -10,3 +10,7 @@
 /Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/ref/Sinlan.Domain.dll
 /Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.sourcelink.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/bin/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/bin/Debug/net10.0/Sinlan.Shared.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.Domain.csproj.AssemblyReference.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.Domain/obj/Debug/net10.0/Sinlan.D.18F53AF8.Up2Date

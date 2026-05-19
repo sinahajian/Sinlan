@@ -14,3 +14,5 @@
 /Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/ref/Sinlan.Data.dll
 /Users/sinahajianmanesh/SinLan/Sinlan.Data/obj/Debug/net10.0/Sinlan.Data.sourcelink.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Data/bin/Debug/net10.0/Sinlan.Shared.pdb

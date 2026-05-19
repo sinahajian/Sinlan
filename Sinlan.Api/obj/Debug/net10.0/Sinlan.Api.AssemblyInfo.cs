@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sinlan.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+392ba70085b5f6286a21bc5a88da0967fb6e07c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f1e32c4e362420b75b3a30ca152a9e2ba49c84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sinlan.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sinlan.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

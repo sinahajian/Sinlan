@@ -10,3 +10,15 @@
 /Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/refint/Sinlan.IOC.dll
 /Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/ref/Sinlan.IOC.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Application.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Domain.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/sinlan.Infrastructure.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Application.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/sinlan.Infrastructure.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Domain.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.csproj.AssemblyReference.cache
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/obj/Debug/net10.0/Sinlan.IOC.csproj.Up2Date
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Data.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Data.pdb
+/Users/sinahajianmanesh/SinLan/Sinlan.IOC/bin/Debug/net10.0/Sinlan.Shared.pdb

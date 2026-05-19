@@ -1,6 +1,8 @@
+using Sinlan.Application.Contracts.Auth;
+
 namespace Sinlan.Application.IServices.Auth;
 
-using Sinlan.Shared.DTO.UserDTO;
+
 
 public interface IRegisterUserService
 {

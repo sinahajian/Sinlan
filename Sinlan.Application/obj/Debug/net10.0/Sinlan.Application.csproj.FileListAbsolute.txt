@@ -7,8 +7,6 @@
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Application.dll
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Application.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Domain.dll
-/Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Shared.dll
-/Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Shared.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Domain.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/obj/Debug/net10.0/Sinlan.A.03CE5DD7.Up2Date
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/obj/Debug/net10.0/Sinlan.Application.dll
@@ -16,3 +14,5 @@
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/obj/Debug/net10.0/Sinlan.Application.pdb
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/obj/Debug/net10.0/ref/Sinlan.Application.dll
 /Users/sinahajianmanesh/SinLan/Sinlan.Application/obj/Debug/net10.0/Sinlan.Application.sourcelink.json
+/Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Shared.dll
+/Users/sinahajianmanesh/SinLan/Sinlan.Application/bin/Debug/net10.0/Sinlan.Shared.pdb

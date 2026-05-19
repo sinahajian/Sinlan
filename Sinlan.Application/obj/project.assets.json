@@ -5,6 +5,9 @@
       "Sinlan.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Sinlan.Shared": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Sinlan.Domain.dll": {}
         },
@@ -38,8 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Sinlan.Domain >= 1.0.0",
-      "Sinlan.Shared >= 1.0.0"
+      "Sinlan.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -70,9 +72,6 @@
           "projectReferences": {
             "/Users/sinahajianmanesh/SinLan/Sinlan.Domain/Sinlan.Domain.csproj": {
               "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Domain/Sinlan.Domain.csproj"
-            },
-            "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj": {
-              "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj"
             }
           }
         }

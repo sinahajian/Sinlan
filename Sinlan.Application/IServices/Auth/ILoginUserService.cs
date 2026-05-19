@@ -1,4 +1,4 @@
-using Sinlan.Shared.DTO.UserDTO;
+using Sinlan.Application.Contracts.Auth;
 namespace Sinlan.Application.IServices.Auth;
 
 public interface ILoginUserService

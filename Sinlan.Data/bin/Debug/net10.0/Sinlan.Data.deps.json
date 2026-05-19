@@ -80,8 +80,19 @@
         }
       },
       "Sinlan.Domain/1.0.0": {
+        "dependencies": {
+          "Sinlan.Shared": "1.0.0"
+        },
         "runtime": {
           "Sinlan.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sinlan.Shared/1.0.0": {
+        "runtime": {
+          "Sinlan.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -145,6 +156,11 @@
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
     },
     "Sinlan.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sinlan.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

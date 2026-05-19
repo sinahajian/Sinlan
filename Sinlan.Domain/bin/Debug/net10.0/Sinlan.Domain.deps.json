@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Sinlan.Domain/1.0.0": {
+        "dependencies": {
+          "Sinlan.Shared": "1.0.0"
+        },
         "runtime": {
           "Sinlan.Domain.dll": {}
+        }
+      },
+      "Sinlan.Shared/1.0.0": {
+        "runtime": {
+          "Sinlan.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Sinlan.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sinlan.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

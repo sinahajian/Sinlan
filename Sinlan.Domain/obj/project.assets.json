@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Sinlan.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Sinlan.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sinlan.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sinlan.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Sinlan.Shared/Sinlan.Shared.csproj",
+      "msbuildProject": "../Sinlan.Shared/Sinlan.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Sinlan.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/sinahajianmanesh/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj": {
+              "projectPath": "/Users/sinahajianmanesh/SinLan/Sinlan.Shared/Sinlan.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

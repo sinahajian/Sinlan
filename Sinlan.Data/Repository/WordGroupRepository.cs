@@ -7,7 +7,8 @@ namespace Sinlan.Data.Repository;
 
 public class WordGroupRepository : BaseRepository<WordGroup>, IWordGroupRepository
 {
-    public WordGroupRepository(SinLanContext context) : base(context)
+
+    public WordGroupRepository(ISinLanContext context) : base(context.WordGroups)
     {
     }
 

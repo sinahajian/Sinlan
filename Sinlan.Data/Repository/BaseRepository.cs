@@ -5,15 +5,16 @@ using Sinlan.Domain.IRepository;
 
 namespace Sinlan.Data.Repository;
 
-public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
+public abstract class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
 {
-    protected readonly SinLanContext Context;
+    // protected readonly ISinLanContext _context;
+
     protected readonly IMongoCollection<TEntity> Collection;
 
-    public BaseRepository(SinLanContext context)
+    public BaseRepository(IMongoCollection<TEntity> collection)
     {
-        Context = context;
-        Collection = ResolveCollection(context);
+        Collection = collection;
+
     }
 
     public async Task<TEntity?> GetByIdAsync(string id, CancellationToken cancellationToken = default)
@@ -26,10 +27,13 @@ public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : 
         return await Collection.Find(_ => true).ToListAsync(cancellationToken);
     }
 
-    public async Task<TEntity> AddAsync(TEntity entity, CancellationToken cancellationToken = default)
+    public virtual async Task<TEntity> AddAsync(TEntity entity, CancellationToken cancellationToken = default)
     {
         await Collection.InsertOneAsync(entity, cancellationToken: cancellationToken);
         return entity;
+
+
+
     }
 
     public async Task UpdateAsync(TEntity entity, CancellationToken cancellationToken = default)
@@ -42,12 +46,10 @@ public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : 
         await Collection.DeleteOneAsync(entity => entity.Id == id, cancellationToken);
     }
 
-    private static IMongoCollection<TEntity> ResolveCollection(SinLanContext context)
-    {
-        var collectionProperty = context.GetType().GetProperty(typeof(TEntity).Name + "s");
-        var collection = collectionProperty?.GetValue(context) as IMongoCollection<TEntity>;
 
-        return collection
-            ?? throw new InvalidOperationException($" collection for entity '{typeof(TEntity).Name}' was not found.");
+
+    public async Task<IReadOnlyList<TEntity>> GetByIdsAsync(IEnumerable<string> ids, CancellationToken cancellationToken = default)
+    {
+        return await Collection.Find(entity => ids.Contains(entity.Id)).ToListAsync(cancellationToken);
     }
 }

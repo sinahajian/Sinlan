@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sinlan.Application\sinlan.Application.csproj" />
+    <ProjectReference Include="..\sinlan.Infrastructure\sinlan.Infrastructure.csproj" />
+    <ProjectReference Include="..\sinlan.Domain\sinlan.domain.csproj" />
+    <ProjectReference Include="..\sinlan.Data\sinlan.Data.csproj" />
+    <ProjectReference Include="..\sinlan.shared\sinlan.shared.csproj" />
+  </ItemGroup>
+
 </Project>

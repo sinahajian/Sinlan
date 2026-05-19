@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5ljDI1LHHU=",
+  "success": true,
+  "projectFilePath": "/Users/sinahajianmanesh/SinLan/Sinlan.Infrastructure/sinlan.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/sinahajianmanesh/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -8,7 +8,8 @@ namespace Sinlan.Data.Repository;
 
 public class WordRepository : BaseRepository<Word>, IWordRepository
 {
-    public WordRepository(SinLanContext context) : base(context)
+
+    public WordRepository(ISinLanContext context) : base(context.Words)
     {
     }
 

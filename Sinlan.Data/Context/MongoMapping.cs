@@ -21,5 +21,7 @@ public static class MongoMappings
                   .SetIdGenerator(StringObjectIdGenerator.Instance);
             });
         }
+
+
     }
 }

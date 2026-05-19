@@ -7,7 +7,8 @@ namespace Sinlan.Data.Repository;
 
 public class UserRepository : BaseRepository<User>, IUserRepository
 {
-    public UserRepository(SinLanContext context) : base(context)
+
+    public UserRepository(ISinLanContext context) : base(context.Users)
     {
     }
 

@@ -1,6 +1,7 @@
 using Sinlan.Application.IServices.Auth;
 using Sinlan.Domain.IRepository;
-using Sinlan.Shared.DTO.UserDTO;
+using Sinlan.Application.Contracts.Auth;
+
 namespace Sinlan.Application.Services.Auth;
 
 public sealed class LoginUserService : ILoginUserService

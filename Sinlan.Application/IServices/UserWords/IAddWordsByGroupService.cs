@@ -1,4 +1,5 @@
-using Sinlan.Shared.DTO.WordsDtos;
+using Sinlan.Application.Contracts.UserWords;
+
 namespace Sinlan.Application.IServices.UserWords;
 
 public interface IAddWordsByGroupService
